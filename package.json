@@ -1,0 +1,32 @@
+{
+  "name": "respopresto",
+  "version": "0.0.1",
+  "description": "a compact component library to make creating responsive apps and sites easy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apresthus/respopresto.git"
+  },
+  "keywords": [
+    "responsive",
+    "components",
+    "layout"
+  ],
+  "author": "Alexander Presthus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apresthus/respopresto/issues"
+  },
+  "homepage": "https://github.com/apresthus/respopresto#readme",
+  "devDependencies": {
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  },
+  "peerDependencies": {
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
